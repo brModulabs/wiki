@@ -51,8 +51,10 @@
 - 데이터가 train, test, sample_submission
 ---
 # baseline
-
+- [baseline_code](https://www.kaggle.com/kcs93023/2019-ml-month-2nd-baseline)
+- 이후 내용은 [code를 참고](./baseline.ipynb)
 ---
 # update
+- 관련 내용은 [code를 참고](./test.ipynb)
 ---
 # project
