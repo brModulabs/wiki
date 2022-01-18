@@ -46,9 +46,10 @@
 # Pillow 사용법
 - PIL는 예전에 주로 사용하던 라이브러리
 - numpy랑 결합할 때 시너지가 있음
-- 이후 코드와 설명은 code 파일을 참조
+- 이후 코드와 설명은 [code 파일](./code.ipynb)을 참조
 ---
 # Pillow를 활용한 데이터 전처리
+- 이후 코드와 설명은 [code 파일](./code.ipynb)을 참조
 ---
 # OpenCV 시작
 ---
