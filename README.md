@@ -1,6 +1,5 @@
-
 # Aiffel
-## LMS
+## lms
 ### fund
 
 ### exp
