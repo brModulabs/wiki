@@ -19,7 +19,7 @@
 |11|[openCV](#)|
 |12|[DML 기초](#)|
 |13|[DML 동작](#)|
-|14|[선형 회귀, 로지스틱 회귀](aiffel_ai\lms\fund\19_regression_logistic)|
+|14|[선형 회귀, 로지스틱 회귀](aiffel_ai/lms/fund/19_regression_logistic)|
 ### exp
 - 경험
 
