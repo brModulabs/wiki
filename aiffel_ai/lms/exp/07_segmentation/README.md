@@ -2,7 +2,7 @@
 - [ready](#ready)
 - [segmentation](#segmentation)
 - [semantic](#semantic)
-- blur
+- [blur](#blur)
 - concat
 - problem
 # ready
@@ -24,3 +24,12 @@
 # semantic
 - FCN, SegNet, U-Net 등 다양하게 존재함
 - 그 중 DeepLab V3+를 사용함[관련 링크](https://blog.lunit.io/2018/07/02/deeplab-v3-encoder-decoder-with-atrous-separable-convolution-for-semantic-image-segmentation/)
+
+## [PixelLib](https://github.com/ayoolaolafenwa/PixelLib)
+- 다양한 세그멘테이션 모델을 제공한다.
+## [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
+- 학습 데이터의 종류
+- 데이터는 기본적으로 BGR로 저장되어 있음
+# blur
+- opencv 명령어 사용함
+- 이후 마스크의 형상 대로 빈칸을 만듬
