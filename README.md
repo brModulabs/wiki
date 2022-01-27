@@ -30,9 +30,10 @@
 |2|[ML 분류](#)|
 |3|[ML을 통한 이미지 처리](#)|
 |4|[NLP를 통한 문장 만들기](#)|
-|5|[캐글 하는 법](aiffel_ai/lms/exp/05_kaggle)|
-|6|[감성 분석](#)|
+|5|[캐글 하는 법](#)|
+|6|[감성 분석](aiffel_ai/lms/exp/06_sentiment_analysis)|
 |7|[이미지에서 객체 뽑기](aiffel_ai/lms/exp/07_segmentation)|
+|8|[텍스트 요약](aiffel_ai/lms/exp/08_text_summarization)
 ## 스터디
 - 하고싶은 것
 ### 파전
